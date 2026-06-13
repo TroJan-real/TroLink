@@ -1,0 +1,27 @@
+discord:
+  token: ""
+  guild-id: ""
+  verify-channel-id: ""
+  verified-role-id: ""
+
+link:
+  code-length: 6
+  expire-seconds: 300
+  require-link-for-chat: false
+
+nickname-format: "%minecraft% | %discord%"
+
+rewards:
+  - "give %player% diamond 3"
+  - "eco give %player% 5000"
+
+role-sync:
+  "123456789012345678":
+    group: "vip"
+  "876543210987654321":
+    group: "mvp"
+
+debug: false
+
+settings:
+  log-cleanup: false

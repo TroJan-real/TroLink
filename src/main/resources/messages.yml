@@ -1,0 +1,27 @@
+prefix: "&8[&bTroLink&8] &r"
+
+errors:
+  only-players: "&cBu komut sadece oyuncular içindir."
+  no-permission: "&cBu işlemi yapmak için yetkiniz yok!"
+  already-linked: "&cBu hesap zaten bir Discord hesabına bağlı."
+  not-linked: "&cHenüz bir Discord hesabı bağlamamışsınız."
+  code-expired: "&cKodun süresi dolmuş veya geçersiz."
+
+link:
+  code-generated:
+    - ""
+    - " &b&lHESAP EŞLEME SİSTEMİ"
+    - " &7Discord hesabınızı bağlamak için kodunuz:"
+    - " &b&l%code%"
+    - ""
+    - " &8» &fBu kod 5 dakika boyunca geçerlidir."
+    - ""
+  unlinked-success: "&aDiscord hesabınızla olan bağlantı başarıyla kaldırıldı."
+
+status:
+  linked: "&7Hesabınız &b%discord_id% &7ID'li Discord hesabına bağlı."
+  not-linked: "&7Hesabınız herhangi bir Discord hesabına &cbağlı değil&7."
+
+admin:
+  reloaded: "&aKonfigürasyon ve mesajlar başarıyla yenilendi."
+  sync-started: "&b%player% &7için senkronizasyon işlemi başlatıldı."
