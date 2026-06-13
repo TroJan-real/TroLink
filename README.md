@@ -8,7 +8,8 @@
   <img src="https://img.shields.io/badge/Java-21-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Paper-Supported-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/JDA-5.x-5865F2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/License-GPL--3.0-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/License-Apache--2.0-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/bstats/servers/31966?style=for-the-badge&label=Servers&color=5865F2" />
 </p>
 
 **Powerful Discord ↔ Minecraft Integration**
@@ -122,6 +123,25 @@ Restart your server and enjoy.
 
 ---
 
+## 📊 Statistics
+
+TroLink uses bStats to collect completely anonymous usage statistics.
+
+### Tracked Metrics
+
+* Active servers
+* Plugin version distribution
+* Minecraft version distribution
+* Java version distribution
+* Operating system statistics
+* General performance metrics
+
+### Live Statistics
+
+https://bstats.org/plugin/bukkit/TroLink/31966
+
+---
+
 ## 🤝 Contributing
 
 Pull requests, feature suggestions and bug reports are welcome.
@@ -132,7 +152,16 @@ Feel free to open an issue.
 
 ## 📜 License
 
-This project is licensed under the GNU General Public License v3.0 (GPL-3.0).
+This project is licensed under the Apache License 2.0.
+
+You are free to:
+
+* Use the software commercially
+* Modify the source code
+* Distribute copies
+* Create private forks
+
+See the LICENSE file for details.
 
 ---
 
@@ -237,6 +266,25 @@ Sunucuyu yeniden başlatın ve kullanmaya başlayın.
 
 ---
 
+## 📊 İstatistikler
+
+TroLink, tamamen anonim kullanım istatistikleri toplamak için bStats kullanır.
+
+### Takip Edilen Veriler
+
+* Aktif sunucu sayısı
+* Eklenti sürüm dağılımları
+* Minecraft sürüm dağılımları
+* Java sürüm dağılımları
+* İşletim sistemi istatistikleri
+* Genel performans verileri
+
+### Canlı İstatistikler
+
+https://bstats.org/plugin/bukkit/TroLink/31966
+
+---
+
 ## 🤝 Katkıda Bulunma
 
 Pull request'ler, öneriler ve hata raporları memnuniyetle karşılanır.
@@ -247,7 +295,16 @@ Bir sorunla karşılaşırsanız Issue oluşturabilirsiniz.
 
 ## 📜 Lisans
 
-Bu proje GNU General Public License v3.0 (GPL-3.0) lisansı altında dağıtılmaktadır.
+Bu proje Apache License 2.0 lisansı altında dağıtılmaktadır.
+
+Bu lisans kapsamında:
+
+* Ticari kullanım serbesttir
+* Kaynak kodu değiştirebilirsiniz
+* Kopyalarını dağıtabilirsiniz
+* Özel forklar oluşturabilirsiniz
+
+Detaylar için LICENSE dosyasına bakabilirsiniz.
 
 ---
 
@@ -260,3 +317,9 @@ Bu proje GNU General Public License v3.0 (GPL-3.0) lisansı altında dağıtılm
 Created by **TroJan_real**
 
 </div>
+
+<p align="center">
+  <a href="https://bstats.org/plugin/bukkit/TroLink/31966">
+    <img src="https://bstats.org/signatures/bukkit/TroLink.svg" />
+  </a>
+</p>
